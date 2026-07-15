@@ -335,28 +335,10 @@ Through this project I gained practical experience in:
 
 ---
 
-# About Me
-
-## Akash Ghosh
-
-Aspiring Data Analyst | Business Intelligence Analyst | Data Scientist
-
-**Technical Skills**
-
-- Power BI
-- SQL
-- Python
-- Excel
-- Machine Learning
-- Data Visualization
-- Statistics
-
----
 
 # Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 📧 Email: *(Add your email)*
+- 💼 LinkedIn: https://www.linkedin.com/in/akash-ghosh-866173226/
 
 ---
 

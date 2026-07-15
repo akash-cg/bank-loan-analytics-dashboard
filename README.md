@@ -295,11 +295,10 @@ The solution reduces manual reporting effort while improving visibility into cus
 ```text
 bank-loan-analytics-dashboard
 │
-├── 📄 README.md
 ├── 📊 Bank_Loan_Analytics_Dashboard.pbix
 ├── 📷 Dashboard_Screenshot.png
 ├── 📁 Book1_cleaned_dataset.csv
-└── 📄 LICENSE (optional)
+└── 📄 README.md
 ```
 
 ---

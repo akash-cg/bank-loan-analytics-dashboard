@@ -134,10 +134,9 @@ The dashboard was designed following Business Intelligence best practices with e
 
 # Dashboard Preview
 
-> *(Replace with your image after uploading to GitHub.)*
 
 ```markdown
-![Dashboard](Dashboard_Screenshot.png)
+![bank-loan-analytics-dashboard](Dashboard_Screenshot.png)
 ```
 
 ---

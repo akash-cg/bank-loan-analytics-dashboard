@@ -135,9 +135,8 @@ The dashboard was designed following Business Intelligence best practices with e
 # Dashboard Preview
 
 
-```markdown
-![bank-loan-analytics-dashboard](Dashboard_Screenshot.png)
-```
+![Bank Loan Analytics Dashboard](Dashboard_Screenshot.png)
+
 
 ---
 

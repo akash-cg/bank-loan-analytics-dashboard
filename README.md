@@ -293,7 +293,7 @@ The solution reduces manual reporting effort while improving visibility into cus
 # Repository Structure
 
 ```text
-Bank-Loan-Analytics-Dashboard
+bank-loan-analytics-dashboard
 │
 ├── 📄 README.md
 ├── 📊 Bank_Loan_Analytics_Dashboard.pbix
